@@ -8,7 +8,7 @@ The purpose of this analysis was to review CitiBike data from NYC to build a bus
 ## *Viz 1- Total Number of Rides*
 The total number of rides in the NYC dataset was **2,344,224**.
 
-![Viz 1 - Total Number of Rides](./resources/viz1.png)
+![Viz 1 - Total Number of Rides](./Resources/viz1.png)
 
 ## *Viz 2 - Trips by Weekday/Hour*
 There is generally a morning rush between 7-9 am and an evening rush between 5-7 pm for bike rentals on weekdays, suggesting the majority of rentals are for people commuting to and from work. On weekends there are less overall rentals, the majority of which are checked out between 10 am and 7 pm.
