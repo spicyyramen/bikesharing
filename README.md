@@ -2,7 +2,7 @@
 ## Overview of Analysis
 The purpose of this analysis was to review CitiBike data from NYC to build a business proposal for investors to fund a bike-sharing program in Des Moines.
 
-[link to Tableau story](challenge.twb)
+[link to Tableau story](https://public.tableau.com/app/profile/alyssa3207/viz/CitiBikeChallenge_16420282552630/CitiBikeChallenge?publish=yes)
 
 # Results
 ## *Viz 1- Total Number of Rides*
