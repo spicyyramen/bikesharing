@@ -2,6 +2,8 @@
 ## Overview of Analysis
 The purpose of this analysis was to review CitiBike data from NYC to build a business proposal for investors to fund a bike-sharing program in Des Moines.
 
+[link to Tableau story](challenge.twb)
+
 # Results
 ## *Viz 1- Total Number of Rides*
 The total number of rides in the NYC dataset was **2,344,224**.
